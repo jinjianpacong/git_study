@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("777");
         System.out.println("888");
         System.out.println("999");
+        System.out.println("101010");
         System.out.println("hot-fix test");
     }
 }
