@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T11:19:20.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="c8qBjYMw9koU5hWQzoUl" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T11:25:20.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="TF07QjtItQh1fOB5jvUC" version="22.1.0" type="github">
   <diagram name="第 1 页" id="MxU3B2thwA_xXjgCt5oW">
     <mxGraphModel dx="1188" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
         </mxCell>
         <mxCell id="DBMJC1OMiwxY5DyXA_E_-45" value="主键不一致" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBMJC1OMiwxY5DyXA_E_-48" value="update 表1 set&amp;nbsp; &amp;nbsp;... where type_id = ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="915" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
