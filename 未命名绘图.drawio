@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T04:00:03.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eiIv3e5BCznV-KUm2OXY" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T04:02:45.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="a26Pre1mU6DkkBHfy9Em" version="22.1.4" type="github">
   <diagram name="第 1 页" id="MxU3B2thwA_xXjgCt5oW">
     <mxGraphModel dx="1815" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,10 +164,10 @@
         </mxCell>
         <mxCell id="uM7vvX6dJDBX0UOI4Dk0-49" value="获取夹具编号，保存测试结果路径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uM7vvX6dJDBX0UOI4Dk0-48">
           <mxGeometry x="-0.0079" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uM7vvX6dJDBX0UOI4Dk0-5" value="config.ini&lt;br&gt;(存储夹具信息，测试结果保存路径，其他信息)" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uM7vvX6dJDBX0UOI4Dk0-5" value="config.ini文件&lt;br&gt;(存储夹具信息，测试结果保存路径，其他信息)" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1190" width="115" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uM7vvX6dJDBX0UOI4Dk0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uM7vvX6dJDBX0UOI4Dk0-7" target="uM7vvX6dJDBX0UOI4Dk0-8">
@@ -300,6 +300,17 @@
         <mxCell id="uM7vvX6dJDBX0UOI4Dk0-64" value="使用machineModel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uM7vvX6dJDBX0UOI4Dk0-62">
           <mxGeometry x="-0.0092" y="-4" relative="1" as="geometry">
             <mxPoint x="3" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uM7vvX6dJDBX0UOI4Dk0-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uM7vvX6dJDBX0UOI4Dk0-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1640" as="sourcePoint" />
+            <mxPoint x="120" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uM7vvX6dJDBX0UOI4Dk0-69" value="使用moduleType" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uM7vvX6dJDBX0UOI4Dk0-68">
+          <mxGeometry x="-0.1371" y="-2" relative="1" as="geometry">
+            <mxPoint x="29" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
